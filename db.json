@@ -57,18 +57,6 @@
       "frequencia": 0.8
     }
   ],
-  "atividadesExtra": [
-    {
-      "id": 1,
-      "nome": "Judô",
-      "nomeProfessor": "Beatriz Almeida Ferreira"
-    },
-    {
-      "id": 2,
-      "nome": "Ballet",
-      "nomeProfessor": "Aline Souza Dias"
-    }
-  ],
   "provas": [
     {
       "id": 1,
